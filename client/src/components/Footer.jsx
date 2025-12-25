@@ -13,7 +13,7 @@ const Footer = () => {
 
       <div className='flex gap-2.5'>
         <a
-          href="https://www.instagram.com/shubh4mm_88"
+          href="https://www.instagram.com/shubh4mm_88/"
           target="_blank"
           rel="noopener noreferrer"
         >
