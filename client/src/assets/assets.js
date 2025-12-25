@@ -68,7 +68,7 @@ export const testimonialsData = [
         name:'Richard Nelson',
         role:'Content Creator',
         stars:5,
-        text:`Such a Useful Technology for cintent creation. Just loving It!!`
+        text:`Such a Useful Technology for content creation. Just loving It!!`
     },
     {
         image:profile_img_1,
